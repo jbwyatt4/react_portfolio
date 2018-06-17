@@ -2,3 +2,7 @@
 	path = api_todolist
 	url = https://gitlab.com/jbwyatt4/api_todolist
 	branch = master
+[submodule "hackernews"]
+	path = hackernews
+	url = https://gitlab.com/jbwyatt4/hackernews
+	branch = master
