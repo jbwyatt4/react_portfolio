@@ -6,3 +6,7 @@
 	path = hackernews
 	url = https://gitlab.com/jbwyatt4/hackernews
 	branch = master
+[submodule "ideaboard-api"]
+	path = ideaboard-api
+	url = git@gitlab.com:jbwyatt4/ideaboard-api.git
+	branch = master
